@@ -127,11 +127,18 @@
 			"m_ServerName": "|PVE|GreenGarden_Cherno",
 			"m_IP": "46.174.48.200"
 		}, 
-				{
+		{
 			"m_SteamID": 	"76561198035248102",
             		"m_Discord": 	"kazantipos",
 			"m_ServerName": "deadtime",
 			"m_IP": "185.189.255.33"
+		},
+		{
+            		"m_SteamID":     "76561198161123008",
+                    	"m_Discord":     "nastya20fps",
+           	 	"m_ServerName": "Rossini4",
+			"m_IP": "84.39.252.49"
 		}
+
 	]
 }
