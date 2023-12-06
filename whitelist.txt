@@ -3,3 +3,4 @@
 	185.207.214.117 \\Hotline Chaikinj
 	185.189.255.225 \\Requiem Inspector
 	46.174.48.77 \\Mafiozio Yakydza
+	212.22.93.115 \\Maslenok
