@@ -150,7 +150,12 @@
                     	"m_Discord":     "el.bart.o",
            	 	"m_ServerName": "Land of the Dead",
 			"m_IP": "185.207.214.103"
+		},
+		{
+            		"m_SteamID":     "https://steamcommunity.com/id/dayz24ru/",
+                    	"m_Discord":     "ahapxnctmax",
+           	 	"m_ServerName": "Russian Classic",
+			"m_IP": "92.38.222.126"
 		}
-
 	]
 }
