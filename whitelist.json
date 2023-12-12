@@ -192,6 +192,18 @@
             		"m_Discord": 	"brrrklyn",
 			"m_ServerName": "WASD | X10LOOT | TRADER | HELI | PVP | RU CARS | GUNS",
 			"m_IP": "81.88.208.66"
+		}, 
+			{
+			"m_SteamID": 	"",
+            		"m_Discord": 	"",
+			"m_ServerName": "frozEn land local",
+			"m_IP": "82.162.62.129"
+		}, 
+				{
+			"m_SteamID": 	"",
+            		"m_Discord": 	"",
+			"m_ServerName": "frozEn land",
+			"m_IP": "65.108.239.31"
 		}
 	]
 }
