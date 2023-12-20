@@ -199,29 +199,35 @@
 			"m_ServerName": "WASD | X10LOOT | TRADER | HELI | PVP | RU CARS | GUNS",
 			"m_IP": "81.88.208.66"
 		}, 
-			{
+		{
 			"m_SteamID": 	"",
             		"m_Discord": 	"",
 			"m_ServerName": "frozEn land local",
 			"m_IP": "82.162.62.129"
 		}, 
-				{
+		{
 			"m_SteamID": 	"",
             		"m_Discord": 	"",
 			"m_ServerName": "frozEn land",
 			"m_IP": "65.108.239.31"
 		},
-				{
+		{
 			"m_SteamID": 	"76561198081433878",
             		"m_Discord": 	"gymforce",
 			"m_ServerName": "REDLINE|RU|3PP|MORE LOOTPVP|WIPE 07.11",
 			"m_IP": "212.22.93.104"
 		},
-				{
+		{
 			"m_SteamID": 	"76561198331656897",
             		"m_Discord": 	"dushnila02",
 			"m_ServerName": "ECHO ZONE",
 			"m_IP": "185.248.102.178"
+		},
+		{
+			"m_SteamID": 	"76561198336992141",
+            		"m_Discord": 	"types1",
+			"m_ServerName": "LegendaPVE",
+			"m_IP": "188.134.86.116"
 		}
 	]
 }
