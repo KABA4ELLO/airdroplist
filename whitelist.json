@@ -326,9 +326,15 @@
 			"m_IP": "94.41.188.33"
 		},
 		{
-			"m_SteamID": 	"76561198168346844",
-            		"m_Discord": 	"berzerk8978",
-			"m_ServerName": "globzy test",
+			"m_SteamID": 	"76561199487799938",
+            		"m_Discord": 	"globzivova",
+			"m_ServerName": "RaccoonCity/PVE|War with Bots|FISH|Bed-Respawning|Trader",
+			"m_IP": "185.189.255.184"
+		},
+		{
+			"m_SteamID": 	"76561199487799938",
+            		"m_Discord": 	"globzivova",
+			"m_ServerName": "RaccoonCity TEST ",
 			"m_IP": "81.177.127.109"
 		}
 	]
