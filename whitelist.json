@@ -372,6 +372,12 @@
             		"m_Discord": 	"lucifer.6.6.6.",
 			"m_ServerName": "RU | KHARON [MOD|PVP|X5 LOOT]",
 			"m_IP": "185.207.214.112"
+		},
+		{
+			"m_SteamID": 	"https://steamcommunity.com/id/Sedoy-Sergey/myworkshopfiles/?appid=221100",
+            		"m_Discord": 	".sedoy",
+			"m_ServerName": "Dead Silence",
+			"m_IP": "185.207.214.168"
 		}
 	]
 }
