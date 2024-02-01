@@ -426,6 +426,24 @@
             		"m_Discord": 	"FOTON96",
 			"m_ServerName": "GoraDayzPVE",
 			"m_IP": "212.22.93.170"
+		},
+		{
+			"m_SteamID": 	"76561198255737185",
+            		"m_Discord": 	"andreinikolaevich2873",
+			"m_ServerName": "Улыбка 45 калибра",
+			"m_IP": "212.22.93.99"
+		},
+		{
+			"m_SteamID": 	"76561198255737185",
+            		"m_Discord": 	"andreinikolaevich2873",
+			"m_ServerName": "Улыбка 45 калибра #2",
+			"m_IP": "212.22.93.197"
+		},
+		{
+			"m_SteamID": 	"76561198255737185",
+            		"m_Discord": 	"andreinikolaevich2873",
+			"m_ServerName": "Улыбка 45 калибра TEST",
+			"m_IP": "80.68.11.54"
 		}
 	]
 }
