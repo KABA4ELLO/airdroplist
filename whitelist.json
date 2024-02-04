@@ -451,5 +451,11 @@
 			"m_ServerName": "Immortals",
 			"m_IP": "78.46.66.70"
 		},
+		{
+			"m_SteamID": 	"76561199529073310",
+            		"m_Discord": 	"mq_agressor",
+			"m_ServerName": "Immortals TEST",
+			"m_IP": "194.4.68.209"
+		}
 	]
 }
