@@ -78,6 +78,12 @@
             		"m_Discord": 	"",
 			"m_ServerName": "Mafiozio Yakydza",
 			"m_IP": "46.174.48.77"
-		}
+		},
+		{
+            		"m_SteamID":     "76561199387243721",
+                    	"m_Discord":     "nookie79",
+           	 	"m_ServerName": "DozoR",
+			"m_IP": "109.248.4.54"
+		},
 	]
 }
