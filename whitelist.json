@@ -504,6 +504,18 @@
                     	"m_Discord":     "gucci.gang",
            	 	"m_ServerName": "ZoneX",
 			"m_IP": "195.18.27.124"
+		},
+		{
+            		"m_SteamID":     "76561198063673588",
+                    	"m_Discord":     "243070612849819660",
+           	 	"m_ServerName": "EVO PVE",
+			"m_IP": "109.248.4.128"
+		},
+		{
+            		"m_SteamID":     "76561198063673588",
+                    	"m_Discord":     "243070612849819660",
+           	 	"m_ServerName": "EVO PVE TEST",
+			"m_IP": "92.38.222.24"
 		}
 	]
 }
