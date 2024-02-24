@@ -528,6 +528,18 @@
                     	"m_Discord":     "568531966505517056",
            	 	"m_ServerName": "Pangea_PVP |3PP| X5 Loot",
 			"m_IP": "185.189.255.131"
+		},
+		{
+            		"m_SteamID":     "76561198216100552",
+                    	"m_Discord":     "356016937899393024",
+           	 	"m_ServerName": "[TOP SECRET] PROJECT AnoWRLD",
+			"m_IP": "185.189.255.209"
+		},
+		{
+            		"m_SteamID":     "76561198216100552",
+                    	"m_Discord":     "356016937899393024",
+           	 	"m_ServerName": "[TOP SECRET] PROJECT AnoWRLD",
+			"m_IP": "185.207.214.205"
 		}
 	]
 }
