@@ -96,6 +96,12 @@
                     	"m_Discord":     "__rebus__",
            	 	"m_ServerName": "Pangea",
 			"m_IP": "185.189.255.131"
+		},
+		{
+            		"m_SteamID":     "76561198990394387",
+                    	"m_Discord":     "783354445823606805",
+           	 	"m_ServerName": "Black Treider port 2302",
+			"m_IP": "185.189.255.244"
 		}
 	]
 }
