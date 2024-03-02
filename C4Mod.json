@@ -102,6 +102,12 @@
                     	"m_Discord":     "783354445823606805",
            	 	"m_ServerName": "Black Treider port 2302",
 			"m_IP": "185.189.255.244"
-		}
+		},
+		{
+			"m_SteamID": 	"76561198941232476",
+            		"m_Discord": 	"lusverg",
+			"m_ServerName": "Sommelier",
+			"m_IP": "195.18.27.63"
+		},
 	]
 }
