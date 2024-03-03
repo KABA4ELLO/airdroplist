@@ -558,6 +558,12 @@
                     	"m_Discord":     "748974658816311366",
            	 	"m_ServerName": "Red Rivers",
 			"m_IP": "195.18.27.32:2302"
+		},
+		{
+            		"m_SteamID":     "76561199126490746",
+                    	"m_Discord":     "793877311292047400",
+           	 	"m_ServerName": "BARRACUDA [PVE]",
+			"m_IP": "195.18.27.106:2302"
 		}
 	]
 }
