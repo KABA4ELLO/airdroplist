@@ -1,1 +1,11 @@
-
+{
+	"List":
+	[
+		{
+			"m_SteamID": 	"",
+      "m_Discord": 	"",
+			"m_ServerName": "myPC",
+			"m_IP": "109.72.249.94"
+		}
+	]
+}
