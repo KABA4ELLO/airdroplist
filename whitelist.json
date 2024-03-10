@@ -594,6 +594,12 @@
                     	"m_Discord":     "800623342217330748",
            	 	"m_ServerName": "zolotaya",
 			"m_IP": "109.248.4.12"
+		},
+		{
+			"m_SteamID": 	"76561198257283058",
+            		"m_Discord": 	"295520644257284096",
+			"m_ServerName": "Silence Zone",
+			"m_IP": "185.207.214.109"
 		}
 	]
 }
