@@ -114,6 +114,18 @@
             		"m_Discord": 	"295520644257284096",
 			"m_ServerName": "Silence Zone",
 			"m_IP": "185.207.214.109"
+		},
+		{
+			"m_SteamID": 	"76561199470552083",
+            		"m_Discord": 	"541771217753866241",
+			"m_ServerName": "Kharon",
+			"m_IP": "185.207.214.112"
+		},
+		{
+			"m_SteamID": 	"76561199470552083",
+            		"m_Discord": 	"541771217753866241",
+			"m_ServerName": "Kharon TEST",
+			"m_IP": "46.164.220.236"
 		}
 	]
 }
