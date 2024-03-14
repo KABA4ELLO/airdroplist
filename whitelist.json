@@ -642,6 +642,12 @@
                     	"m_Discord":     "800623342217330748",
            	 	"m_ServerName": "zolotayaPVE",
 			"m_IP": "212.22.93.170"
+		},
+		{
+            		"m_SteamID":     "76561198196011243",
+                    	"m_Discord":     "427529674860527627",
+           	 	"m_ServerName": "VZL [RU] PVE",
+			"m_IP": "85.192.128.244"
 		}
 	]
 }
