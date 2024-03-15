@@ -649,11 +649,17 @@
            	 	"m_ServerName": "VZL [RU] PVE",
 			"m_IP": "85.192.128.244"
 		}, 
-				{
+	        {
             		"m_SteamID":     "76561198196011243",
                     	"m_Discord":     "427529674860527627",
            	 	"m_ServerName": "VZL [RU] PVE",
 			"m_IP": "91.132.104.71"
+		}, 
+		{
+            		"m_SteamID":     "76561198196011243",
+                    	"m_Discord":     "427529674860527627",
+           	 	"m_ServerName": "VZL [RU] PVE",
+			"m_IP": "92.38.222.124"
 		}
 	]
 }
