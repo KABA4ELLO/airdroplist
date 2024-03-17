@@ -673,6 +673,12 @@
            	 	"m_ServerName": "ATLANT",
 			"m_IP": "185.189.255.99"
 		},
+			{
+            		"m_SteamID":     "76561199222425104",
+                    	"m_Discord":     "916299100717187093",
+           	 	"m_ServerName": "ATLANT",
+			"m_IP": "185.189.255.129"
+			},
 		{
             		"m_SteamID":     "",
                     	"m_Discord":     "570193266079694849",
