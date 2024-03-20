@@ -702,6 +702,18 @@
                     	"m_Discord":     "231863272112914433",
            	 	"m_ServerName": "Nashe Bratstvo",
 			"m_IP": "5.62.100.74"
+		},
+		{
+            		"m_SteamID":     "76561198121683638",
+                    	"m_Discord":     "231863272112914433",
+           	 	"m_ServerName": "Nashe Bratstvo",
+			"m_IP": "89.245.180.20"
+		},
+		{
+            		"m_SteamID":     "76561198876496760",
+                    	"m_Discord":     "372836508991881217",
+           	 	"m_ServerName": "CRYSTAL",
+			"m_IP": "46.174.54.136"
 		}
 	]
 }
