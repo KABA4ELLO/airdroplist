@@ -696,6 +696,12 @@
                     	"m_Discord":     "1099045172463022212",
            	 	"m_ServerName": "DOGMA",
 			"m_IP": "185.189.255.58"
+		},
+		{
+            		"m_SteamID":     "76561198121683638",
+                    	"m_Discord":     "231863272112914433",
+           	 	"m_ServerName": "Nashe Bratstvo",
+			"m_IP": "5.62.100.74"
 		}
 	]
 }
