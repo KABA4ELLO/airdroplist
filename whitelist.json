@@ -700,14 +700,20 @@
 		{
             		"m_SteamID":     "76561198121683638",
                     	"m_Discord":     "231863272112914433",
-           	 	"m_ServerName": "Nashe Bratstvo",
+           	 	"m_ServerName": "Nashe Bratstvo TEST",
 			"m_IP": "5.62.100.74"
 		},
 		{
             		"m_SteamID":     "76561198121683638",
                     	"m_Discord":     "231863272112914433",
-           	 	"m_ServerName": "Nashe Bratstvo",
+           	 	"m_ServerName": "Nashe Bratstvo TEST",
 			"m_IP": "89.245.180.20"
+		},
+		{
+            		"m_SteamID":     "76561198121683638",
+                    	"m_Discord":     "231863272112914433",
+           	 	"m_ServerName": "Nashe Bratstvo",
+			"m_IP": "194.169.211.104"
 		},
 		{
             		"m_SteamID":     "76561198876496760",
