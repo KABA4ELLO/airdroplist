@@ -732,6 +732,12 @@
                     	"m_Discord":     "291579450540425216",
            	 	"m_ServerName": "PANDEMIA",
 			"m_IP": "109.248.4.23"
+		},
+		{
+            		"m_SteamID":     "76561198822052632",
+                    	"m_Discord":     "441224046827536384",
+           	 	"m_ServerName": "Dark Night | PVP",
+			"m_IP": "92.38.222.30"
 		}
 	]
 }
