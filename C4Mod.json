@@ -156,6 +156,30 @@
             		"m_Discord": 	"690580048968810556",
 			"m_ServerName": "[RU] | BERKUT | PVP | EVENTS | X10 LOOT 2302 ",
 			"m_IP": "178.46.156.54"
+		},
+		{
+			"m_SteamID": 	"76561199664103878",
+            "m_Discord": 	"655347583493079072",
+			"m_ServerName": "FACE2FACE",
+			"m_IP": "185.207.214.252"
+		},
+		{
+			"m_SteamID": 	"76561198056270403",
+            "m_Discord": 	"622465208337694740",
+			"m_ServerName": "[RU] Dark Knights  2302",
+			"m_IP": "212.22.93.114"
+		},
+		{
+			"m_SteamID": 	"https://steamcommunity.com/id/Danek57/",
+            "m_Discord": 	"379692704990494731",
+			"m_ServerName": "GRAD  2302",
+			"m_IP": "109.248.4.18"
+		},
+		{
+			"m_SteamID": 	"https://steamcommunity.com/id/Danek57/",
+            "m_Discord": 	"379692704990494731",
+			"m_ServerName": "GRAD  2322",
+			"m_IP": ""
 		}
 	]
 }
